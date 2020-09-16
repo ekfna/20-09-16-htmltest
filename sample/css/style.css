@@ -1,0 +1,10 @@
+.box2{position: absolute;width: 145px;height: 180px;background-color: white;}
+.box3{position: absolute;top:0px; right: 0px;width: 530px;height: 500px;background-color: red;}
+.box4{position: absolute;top:225px;width: 145px;height: 275px;background-color: white;}
+.box5{position: absolute;top:525px;width: 145px;height: 175px;background-color: blue;}
+.box6{position: absolute;top:525px;left: 170px;width: 450px;height: 175px;background-color: white;}
+.box7{position: absolute;top:525px;right: 0px;width: 55px;height: 75px;background-color: white;}
+.box8{position: absolute;bottom:0px;right: 0px;width: 55px;height: 75px;background-color: yellow;}
+.box1{position: absolute;width: 700px;height: 700px; background-color: black;}
+
+/*87.5
